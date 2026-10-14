@@ -10,7 +10,7 @@ This repository contains my daily Python practice, projects, and progress as I l
 
 | Day   | Project         | Concepts Practiced                                 | Code Link                                              |
 | :---- | :-------------- | :------------------------------------------------- | :----------------------------------------------------- |
-| Day 1 | Treasure Island | `input()`, `if`, `elif`, `else`, conditional logic | [day01_treasure_Island.py](./day01_treasure_Island.py) |
+| Day 1 | Treasure Island | `input()`, `if`, `elif`, `else`, conditional logic | [day01_treasure_Island.py](./day01_treasure_island.py) |
 
 ## 🎯 Learning Goals
 
