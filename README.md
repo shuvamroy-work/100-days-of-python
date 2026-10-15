@@ -8,9 +8,10 @@ This repository contains my daily Python practice, projects, and progress as I l
 
 ## 🚀 Projects
 
-| Day   | Project         | Concepts Practiced                                 | Code Link                                              |
-| :---- | :-------------- | :------------------------------------------------- | :----------------------------------------------------- |
-| Day 1 | Treasure Island | `input()`, `if`, `elif`, `else`, conditional logic | [day01_treasure_Island.py](./day01_treasure_island.py) |
+| Day   | Project                   | Concepts Practiced                                                   | Code Link                                                                  |
+| :---- | :------------------------ | :------------------------------------------------------------------- | :------------------------------------------------------------------------- |
+| Day 1 | Treasure Island           | `input()`, `if`, `elif`, `else`, conditional logic                   | [day01_treasure_Island.py](./day01_treasure_island.py)                     |
+| Day 2 | Lucky Discount Calculator | `random` module (`randint`, `choice`), `float()`, Lists, `f-strings` | [day02_lucky_discount_calculator.py](./day02_lucky_discount_calculator.py) |
 
 ## 🎯 Learning Goals
 
