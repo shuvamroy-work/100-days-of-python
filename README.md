@@ -23,6 +23,6 @@ This repository contains my daily Python practice, projects, and progress as I l
 ## 📈 Progress
 
 - [x] Day 1 — Treasure Island
-- [ ] Day 2 — Upcoming...
+- [ ] Day 2 — Lucky Discount Calculator
 
 _More projects will be added as I continue learning Python._
